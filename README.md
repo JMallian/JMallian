@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JMallian
 - 👀 I’m interested in iOS
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on anything written in Swift or Flutter, there's so much to learn! 
 - 📫 How to reach me: github! 
 
 <!---
